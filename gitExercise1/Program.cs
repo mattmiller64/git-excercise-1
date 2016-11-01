@@ -15,7 +15,10 @@ namespace gitExercise1
             Console.WriteLine("Hello from the Other Side");
             Console.WriteLine("Taco Party?");
             Console.WriteLine("It's a Gir-Rafe Par-Tay");
-
+            Console.WriteLine("Hello from the outside.");
+            Console.WriteLine("The tacos said that they want");
+            Console.WriteLine("To be the very best.");
+            Console.WriteLine("Like no one ever was.");
         }
     }
 }
