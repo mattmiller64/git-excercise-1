@@ -12,6 +12,10 @@ namespace gitExercise1
         {
             Console.WriteLine("hello from Main!");
             MyClass.hello();
+            Console.WriteLine("Hello from the Other Side");
+            Console.WriteLine("Taco Party?");
+            Console.WriteLine("It's a Gir-Rafe Par-Tay");
+
         }
     }
 }
